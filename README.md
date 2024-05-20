@@ -6,6 +6,8 @@ AimBot, ESP, WireFrame
 
 Available For PC And Mobile Devices
 
+[Download File](https://github.com/t2k-official/T2M-Krunker-Cheats/releases/download/v1.0.0/T2M_Krunker_Mod.js)
+
 # PC Download Guide
 Open Google Chrome Or Microsof Edge
 
